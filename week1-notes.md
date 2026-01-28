@@ -1,0 +1,3 @@
+- Created my first GitHub repository
+- Learned basic Git concepts
+- Set up my DevOps learning plan
